@@ -5,19 +5,5 @@
 </h1>
 
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" alt="divider" />
 </p>
-
-```text
-visitor@null:~$developer online$start --from null$learn html css js & python$ build wordpress store & backend apps
-$explore artificial intelligence & rust$ status: growing & building real products 🚀
-
-⚡ About Me
-علیرضا محمدزاده مقدم — توسعه‌دهنده وب و علاقه‌مند به هوش مصنوعی
-
-"از صفر شروع کردم به یاد گرفتن — یک خط کد، یک خطا، یک تلاش دوباره. امروز سایت می‌سازم، سیستم رمزنگاری زنده توسعه میدم و روی ابزارهای هوش مصنوعی کار می‌کنم."
-
-Project,Technologies,Description
-ramz,Rust WebSocket,چت رمزنگاری‌شده زنده با تمرکز روی همگام‌سازی پیام‌ها
-mode_albaseh,Commerce SEO,برند پوشاک خانوادگی، توسعه فروش آنلاین و رشد سئو
-Personal Site,Three.js UI,سایت شخصی تعاملی با Three.js و انیمیشن سه‌بعدی
