@@ -26,12 +26,11 @@
 ### 📊 GitHub Activity & Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=alireza81880&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="Alireza's GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=alireza81880&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="Top Languages" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=alireza81880&theme=tokyonight&hide_border=true&background=0D1117" alt="GitHub Streak" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=alireza81880&theme=tokyonight&hide_border=true&background=0D1117" alt="GitHub Streak" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=alireza81880&bg_color=0D1117&color=00F5FF&line=00F5FF&point=FFFFFF&area=true&hide_border=true" alt="Activity Graph" />
 </p>
 
 ---
