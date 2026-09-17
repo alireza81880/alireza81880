@@ -46,5 +46,6 @@
 </p>
 
 <p align="center">
+  <a href="https://alireza81880.github.io" target="_blank">
   <img src="https://komarev.com/ghpvc/?username=alireza81880&label=Profile%20Views&color=00f5ff&style=flat-square" alt="Profile Views" />
 </p>
